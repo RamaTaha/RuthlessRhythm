@@ -1,0 +1,9 @@
+global.player_hp = 4;
+global.player_color = "red";
+global.game_timer = 0;
+global.score_combo = 0;
+global.recent_combo = .5;
+global.keypress_timer = 0;
+global.song1 = noone;
+global.started = false;
+global.destroy_all = false;
